@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * my first progamme in C
+ * My first programme in C
  * I still dont know what betty wants
  * betty please allow me
  */
