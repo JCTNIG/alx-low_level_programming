@@ -2,7 +2,8 @@
 
 /**
  * my first progamme in C
- *
+ * I still dont know what betty wants
+ * betty please allow me
  */
 
 int main(void)
