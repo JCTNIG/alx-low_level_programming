@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * My first programme in C
+ * main - Entry point
  *
- * betty please allow me
+ * Return: Always 0 (Success)
  */
 
 int main(void)
