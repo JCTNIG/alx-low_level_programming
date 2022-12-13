@@ -6,7 +6,7 @@
  * Return: Always 0 (Success)
  */
 
-int maimn(void)
+int main(void)
 
 {
 	int num ='0';
